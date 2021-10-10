@@ -29,6 +29,12 @@ Trust - Context - Relationships
   - [Identity SDK](https://github.com/indykite/jarvis-sdk-nodejs-proto): SDK for integrating identity functionality into a backend application or API
   - [UI SDK](https://github.com/indykite/indykite-ui-sdk): SDK for integrating login, token integration into a front-end application
 
+</div>
 
-
+<div align="left">
+  
+#### Documentation
+  
+  
+</div>
 
