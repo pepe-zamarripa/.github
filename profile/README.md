@@ -1,8 +1,7 @@
-<div align="right">
-  
-<img src="../assets/IndyKITE_Rough_red.png" alt="IndyKite Red Logo" style="width:100px;height:183px" align="right">
-  
-</div
+<div align="left">
+<img src="../assets/IndyKITE_Rough_red.png" alt="IndyKite Red Logo" width="100px" height="183px" align="right">
+</div>  
+
  
 <div align="left">
  
