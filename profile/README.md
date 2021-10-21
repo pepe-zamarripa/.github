@@ -18,8 +18,8 @@ Cloud Native | Decentralized | Open Source
 #### Start here:
 
 - [Code of Conduct](https://github.com/indykite/.github/blob/35630b9fe887a5f37f12b61d9507e4d3c3fa148a/CODE_OF_CONDUCT.md)
-- [Contributing](https://github.com/indykite/.github/contributing.md)
-- [Responsible Disclosure](https://github.com/indykite/.github/responsible_disclosure.md)
+- [Contributing](https://github.com/indykite/.github/blob/6b15e4c9036043501c419ba1162b2b684881756b/contributing.md)
+- [Responsible Disclosure](https://github.com/indykite/.github/blob/6b15e4c9036043501c419ba1162b2b684881756b/responsible_disclosure.md)
 - [Community](https://indykite.one)
 
 </div>
@@ -34,7 +34,7 @@ Available on 25 November 2021
 
 <div align="left">
   
-#### Documentation:
+#### Documentation / Community:
   
 Available on 25 November 2021
   
