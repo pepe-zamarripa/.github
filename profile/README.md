@@ -29,8 +29,7 @@ Cloud Native | Decentralized | Open Source
  
 #### Key Repos:
   
-  - [Identity SDK](https://github.com/indykite/jarvis-sdk-nodejs-proto): SDK for integrating identity functionality into a backend application or API
-  - [UI SDK](https://github.com/indykite/indykite-ui-sdk): SDK for integrating login, token integration into a front-end application
+Available on 25 November 2021
 
 </div>
 
@@ -38,6 +37,7 @@ Cloud Native | Decentralized | Open Source
   
 #### Documentation:
   
+Available on 25 November 2021
   
 </div>
 
