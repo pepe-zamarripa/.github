@@ -17,9 +17,9 @@ Cloud Native | Decentralized | Open Source
   
 #### Start here:
 
-- [Code of Conduct](https://github.com/indykite/CODE_OF_CONDUCT.md)
-- [Contributing](https://github.com/indykite/contributing.md)
-- [Responsible Disclosure](https://github.com/indykite/responsible_disclosure.md)
+- [Code of Conduct](https://github.com/indykite/.github/CODE_OF_CONDUCT.md)
+- [Contributing](https://github.com/indykite/.github/contributing.md)
+- [Responsible Disclosure](https://github.com/indykite/.github/responsible_disclosure.md)
 - [Community](https://indykite.one)
 
 </div>
