@@ -7,7 +7,7 @@
  
   # IndyKite - The Identity Platform for Web 3.0
 
-IndyKite is building a new paradigm of digital identity solutions, based on a model that solves for all kinds of identities and the many ways they interact with and inform each other. Identity is the inherent mechanism to enable, secure, and prove trust. With IndyKite, the world's 23 million developers have the ability to implement identity controls for 7550 billion+ identities, and all their data.
+IndyKite is building a new paradigm of digital identity solutions, based on a model that solves for all kinds of identities and the many ways they interact with and inform each other. Identity is the inherent mechanism to enable, secure, and prove trust. With IndyKite, the world's 23 million developers have the ability to implement identity controls for 75 billion+ identities, and all their data.
   
 Cloud Native | Decentralized | Open Source 
  
