@@ -19,13 +19,13 @@ Cloud Native | Decentralized | Open Source
 We are all about community and open source. In just a few weeks our community will open it's doors and be available here: [IndyKite One](https://indykite.one).  If you head over there now you can sign up and request early access. We'd love for you to join us there.
 
 #### Code of Conduct
-To make sure that our community is a safe space for everyone we have put together a code of conduct, which you can read here [Code of Conduct](https://github.com/indykite/.github/blob/CODE_OF_CONDUCT.md)
+To make sure that our community is a safe space for everyone we have put together a code of conduct, which you can read here [Code of Conduct](https://github.com/indykite/.github/blob/master/CODE_OF_CONDUCT.md)
  
 #### Contributing
-We hope that you will join us on this journey and even roll up your sleeves and contribute to the code.  Click here for more details on [Contributing](https://github.com/indykite/.github/blob/contributing.md)
+We hope that you will join us on this journey and even roll up your sleeves and contribute to the code.  Click here for more details on [Contributing](https://github.com/indykite/.github/blob/master/contributing.md)
  
 #### Responsible Disclosure
-We take security pretty seriously so if you happen to find something we've missed please follow our [Responsible Disclosure](https://github.com/indykite/.github/blob/responsible_disclosure.md) guidelines
+We take security pretty seriously so if you happen to find something we've missed please follow our [Responsible Disclosure](https://github.com/indykite/.github/blob/master/responsible_disclosure.md) guidelines
  
 </div>
 
