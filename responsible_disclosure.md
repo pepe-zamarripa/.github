@@ -9,7 +9,7 @@ When working with us according to this policy, you can expect us to:
 * Work to remediate discovered vulnerabilities in a timely manner.
 * Recognize your contribution to improving our security if you are the first to report a unique vulnerability, and your report triggers a code or configuration change.
 Scope
-Any service on our domains *.indykite.com, *.indykite.id, *.indykite.me and *.indykite.one, but not services that are hosted by third parties. Examples of 3rd party services may include, but are not limited to, Akamai, Azure and GCloud. If you have any questions about scope, please contact us on it-sikkerhetsgruppe@nrk.no.
+Any service on our domains *.indykite.com, *.indykite.id, *.indykite.me and *.indykite.one, but not services that are hosted by third parties. Examples of 3rd party services may include, but are not limited to, Akamai, Azure and GCloud. If you have any questions about scope, please contact us on responsible-disclosure@indykite.com.
 
 When reporting vulnerabilities, please consider (1) attack scenario / exploitability, and (2) security impact of the bug.
 
@@ -39,7 +39,7 @@ We do not offer money or swag as rewards, but we will give you a place in our Se
 
 ## Disclosure Policy
 How to contact us
-Our official communication channel is via email to it-sikkerhetsgruppe@nrk.no
+Our official communication channel is via email to: responsible-disclosure@indykite.com 
 
 ## Ground Rules
 To encourage vulnerability research and to avoid any confusion between legitimate research and malicious attack, we ask that you attempt, in good faith, to:
@@ -64,4 +64,3 @@ You are expected, as always, to comply with all applicable laws. If legal action
 
 If at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report through one of our official channels before going any further.
 
-## Security hall of fame
