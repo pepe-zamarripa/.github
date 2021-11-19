@@ -1,5 +1,20 @@
 # Commit message guidelines
 
+DCO (Developer Certificate of Origin)
+Signing the DCO ensures the project that we have the right to use your code.
+The most popular way to do DCO is to sign off your username and email address in the git command line.
+
+First, configure your local git install.
+
+$ git config --global user.name "John Doe" 
+$ git config --global user.email johndoe@example.com
+Obviously, you should use your own name and the email address associated with your GitHub user account.
+
+Now, every time you commit new code in git, just add a signoff statement via the -s flag.
+
+$ git commit -s -m "This is my commit message"
+
+
 A good commit message should describe what changed and why.
 
 1. The first line should:
