@@ -32,19 +32,12 @@ We take security pretty seriously so if you happen to find something we've misse
  
 </div>
 
-<div align="left">
- 
-#### Key Repos
-  
-Available on 25 November 2021
-
-</div>
 
 <div align="left">
   
 #### Documentation / Community
   
-Available on 25 November 2021
+[https://indykite.one](https://indykite.one)
   
 </div>
 
